@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+CONFIGS PLACEHOLDER 
+
+WELCOME IN THE MONA TEAM
