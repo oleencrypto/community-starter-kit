@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+MONA WELCOME APP
 
 ## What it does
 
-FEATURES PLACEHOLDER
+WELCOME TEAM MEMBERS
 
 ## Getting started
 
