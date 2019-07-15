@@ -38,7 +38,7 @@ firstPRMergeComment: >
 CONFIGS PLACEHOLDER 
 
 WELCOME IN THE MONA TEAM
-WELCOME
-NICE TO HAVE YOU ON BOARD
-COOL WELCOME
+
 Welcome to our repository! Thanks for adding an issue, if you are reporting a bug or a feature request, please make sure to assign a label to this issue.
+
+Thank you for submitting a pull request to our repository. If this change is based on an existing issue, please reference that issue in the pull request comment using Closes #x where X is the issue number.
